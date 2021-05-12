@@ -1,0 +1,42 @@
+body {
+  font: normal 16px Arial, Helvetica, sans-serif;
+  background-color: #F3F3F3;
+  color: #0077b3
+
+}
+
+.container{
+  width: 40%;
+  margin: auto;
+}
+
+.box1{
+  background-color: #002233;
+  color: #fff;
+  padding: 3px;
+  border-radius: 15px;
+  text-align: center;
+}
+
+.box1 h1{
+font-family:Chalkduster;
+font-weight: 1200;
+font-style:italic;
+text-transform: uppercase;
+}
+
+
+.subheadings h3{
+  text-align: center;
+}
+
+.subheadings ul{
+  display: table;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.subheadings li{
+padding: 2px;
+word-spacing: 8px;
+}
